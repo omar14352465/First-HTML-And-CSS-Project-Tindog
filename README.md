@@ -6,7 +6,7 @@ A responsive, modern landing page for a fictional application called **TinDog** 
 <img width="1902" height="857" alt="image" src="https://github.com/user-attachments/assets/a3a3d5cc-e364-4450-b81d-1f85ec951a0d" />
 
 ## 🚀 Live Demo
-https://omarabdalla200110.github.io/First-HTML-And-CSS-Project-Tindog/
+[View Live Demo](https://omarabdalla200110.github.io/First-HTML-And-CSS-Project-Tindog/)
 
 ## 🛠️ Built With
 - **HTML5**: Semantic structure.
